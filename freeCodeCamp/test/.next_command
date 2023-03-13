@@ -197,3 +197,5 @@ touch README.md
 ls --color=auto
 echo yay!
 echo Yay!
+__vsc_prompt_cmd_original
+echo I finished the boilerplate!
