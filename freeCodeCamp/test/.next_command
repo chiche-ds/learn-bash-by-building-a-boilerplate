@@ -86,3 +86,8 @@ touch footer.jpeg
 ls --color=auto
 touch roboto.font
 touch lato.font
+touch manlo.font
+LS
+ls --color=auto
+rm manlo.font
+touch menlo.font
