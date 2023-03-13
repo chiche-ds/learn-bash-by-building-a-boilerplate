@@ -81,3 +81,4 @@ ls --color=auto -a
 cd .
 tocuh background.jpg
 touch background.jpg
+touch header.png
