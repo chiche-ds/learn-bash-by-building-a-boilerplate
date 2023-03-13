@@ -55,3 +55,10 @@ ls --color=auto
 more index.js
 cd ..
 cd ..
+cd ...
+cd ..
+cd ..
+cd freeCodeCamp/
+cd node_modules/
+cd ...
+cd ../..
