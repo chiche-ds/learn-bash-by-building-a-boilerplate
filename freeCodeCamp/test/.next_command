@@ -36,3 +36,4 @@ ls --color=auto
 cd test/
 cd ..
 cd node_modules/
+ls --color=auto
