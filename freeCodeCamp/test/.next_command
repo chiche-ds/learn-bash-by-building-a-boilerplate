@@ -91,3 +91,4 @@ LS
 ls --color=auto
 rm manlo.font
 touch menlo.font
+ls --color=auto
