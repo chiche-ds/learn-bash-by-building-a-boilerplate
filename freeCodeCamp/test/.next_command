@@ -33,3 +33,6 @@ ls --color=auto
 more package.json
 clear
 ls --color=auto
+cd test/
+cd ..
+cd node_modules/
